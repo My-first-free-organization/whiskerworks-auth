@@ -1,1 +1,1 @@
-export const HEALTH = { service: 'auth', sprint: 141, ok: true };
+export const HEALTH = { service: 'auth', sprint: 142, ok: true };
